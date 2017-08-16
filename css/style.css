@@ -1,0 +1,99 @@
+#message{
+    display: none;
+}
+#profilePic{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#more{
+    cursor:pointer;
+    color:#039be5;
+    text-decoration:underline;
+}
+#less{
+    cursor:pointer;
+    color:#039be5;
+    text-decoration:underline;
+}
+.about h5
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.about h6
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+
+.about hr
+{
+    width: 40px;
+    margin-bottom: 45px;
+}
+#titleText{
+    margin-left: 20px;
+}
+.portfolio{
+    background-color: #DAD7CD;
+}
+.portfolio h5{
+    text-align: center;
+    text-transform: uppercase;
+}
+.portfolio h6{
+    text-align: center;
+    text-transform: uppercase;
+}
+.portfolio hr{
+    width: 40px;
+}
+.portfolio img
+{
+    width: 33%;
+    display: inline-block;
+    float: left;
+}
+.contact{
+    background-color: #EAE2C9;
+}
+.contact h5
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.contact h6
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+
+.contact hr
+{
+    width: 40px;
+    margin-bottom: 45px;
+}
+
+.contact .contact-holder
+{
+    padding-left: 40px;
+    text-align: left;
+}
+
+.contact .contact-holder h6
+{
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.contact .contact-holder p
+{
+    margin-bottom: 30px;
+}
